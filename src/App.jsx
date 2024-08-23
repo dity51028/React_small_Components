@@ -7,7 +7,8 @@ function App() {
 
   return (
     <>
-     <div className='min-h-screen flex items-center justify-center'>
+     <div className='min-h-screen flex items-center justify-center
+      bg-gray-50'>
        <Accordian className='max-w-lg'>
           <AccordianItem value='1' trigger="Accordian Item 1">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. 
